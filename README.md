@@ -1,5 +1,5 @@
 # fakestore
-FakeStore ecomerce project using HTML/CSS and vanilla JS
-checkout the fakestore API
+FakeStore eccomerce project using the fake store api  
+checkout the fakestore API [here](https://fakestoreapi.com/)
 
-I like this Api alot
+
